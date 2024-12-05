@@ -1,0 +1,52 @@
+clothing_type,color,cotton,polyester,spandex,woll,ramie,nylon,rayon,brand,origin_country,pattern,seasonal,primary_use,stretchy,remove
+shirt,white,60,40,0,0,0,0,0,david matthew,china,stripe,none,semi-formal,0,1
+shirt,violet,100,0,0,0,0,0,0,sdi,usa,graphic,none,casual,0,1
+shirt,black,100,0,0,0,0,0,0,gildan,dominican republic,graphic,none,casual,0,1
+shirt,white,100,0,0,0,0,0,0,oneita,jamacia,graphic,halloween,casual,0,1
+shirt,white,100,0,0,0,0,0,0,sun island,jamacia,graphic,none,casual,0,1
+shirt,white,100,0,0,0,0,0,0,hanes,usa,graphic,none,casual,0,1
+shirt,blue,55,0,0,0,45,0,0,marlis,korea,plaid,none,semi-formal,0,1
+shirt,red,0,100,0,0,0,0,0,notations,usa,print,none,semi-formal,1,1
+dress,indigo,0,90,0,0,0,10,0,appel,usa,none,none,formal,0,1
+shirt,grey,0,81,19,0,0,0,0,starter,mexico,none,none,activewear,1,1
+pant,grey,50,50,0,0,0,0,0,units,usa,none,none,loungewear,1,1
+jacket,indigo,0,100,0,0,0,0,0,champion,jordan,none,none,warmth,1,1
+shirt,black,100,0,0,0,0,0,0,null,el salvador,graphic,christmas,casual,0,1
+shirt,black,100,0,0,0,0,0,0,gildan,dominican republic,text,none,casual,0,1
+shirt,white,100,0,0,0,0,0,0,fruit of the loom,el salvador,graphic,none,casual,0,1
+shirt,blue,55,25,0,0,0,0,20,sack lunch productions,china,graphic,none,casual,1,1
+shirt,white,100,0,0,0,0,0,0,null,china,graphic,none,casual,0,1
+shirt,grey,99,1,0,0,0,0,0,gildan,honduras,text,none,casual,0,1
+jacket,grey,0,100,0,0,0,0,0,starter,nicaragua,none,none,warmth,1,1
+pant,red,0,100,0,0,0,0,0,no boundaries,china,plaid,christmas,casual,1,0
+pant,green,0,100,0,0,0,0,0,no boundaries,china,print,christmas,casual,1,0
+pant,black,95,0,5,0,0,0,0,no boundaries,vietnam,print,christmas,casual,1,0
+pant,blue,0,100,0,0,0,0,0,no boundaries,china,print,christmas,warmth,1,0
+pant,indigo,0,90,10,0,0,0,0,holiday time,china,print,christmas,casual,1,0
+pant,black,0,90,10,0,0,0,0,celebrate!,china,print,fall,casual,1,0
+pant,orange,0,100,0,0,0,0,0,no boundaries,china,plaid,fall,casual,1,0
+pant,brown,0,100,0,0,0,0,0,no boundaries,china,plaid,fall,casual,1,0
+pant,black,0,100,0,0,0,0,0,terra and sky,cambodia,plaid,fall,casual,1,0
+pant,black,0,100,0,0,0,0,0,no boundaries,china,print,none,casual,1,0
+pant,indigo,95,0,5,0,0,0,0,no boundaries,haiti,floral,spring,casual,1,0
+pant,black,0,82,18,0,0,0,0,avia,vietnam,floral,spring,activewear,1,0
+pant,black,95,0,5,0,0,0,0,no boundaries,vietnam,floral,spring,casual,1,0
+shirt,violet,0,100,0,0,0,0,0,time and true,china,floral,none,semi-formal,0,0
+shirt,black,0,95,5,0,0,0,0,no boundaries,china,print,none,semi-formal,1,0
+shirt,grey,0,100,0,0,0,0,0,leslie jordan,china,none,none,activewear,1,0
+shirt,grey,60,40,0,0,0,0,0,peanuts,indonesia,graphic,none,casual,1,0
+shirt,grey,58,39,3,0,0,0,0,george,indonesia,none,none,casual,1,0
+shirt,black,100,0,0,0,0,0,0,gildan,haiti,graphic,none,casual,0,0
+shirt,black,100,0,0,0,0,0,0,fruit of the loom,el salvador,none,none,casual,0,0
+jacket,blue,0,100,0,0,0,0,0,sage,china,plaid,none,warmth,0,0
+jacket,tan,0,100,0,0,0,0,0,cherokee,bangladesh,none,none,warmth,0,0
+jacket,grey,0,100,0,0,0,0,0,sage,china,plaid,none,warmth,0,0
+shirt,blue,100,0,0,0,0,0,0,st johns bay,pakistan,none,none,casual,0,0
+shirt,green,0,100,0,0,0,0,0,george,egypt,none,none,activewear,1,0
+shirt,tan,100,0,0,0,0,0,0,oneita,usa,graphic,christmas,casual,0,0
+jacket,white,0,100,0,0,0,0,0,northcrest,hong kong,none,christmas,warmth,0,0
+pant,black,95,0,5,0,0,0,0,no boundaries,haiti,print,none,casual,1,0
+pant,red,95,0,5,0,0,0,0,no boundaries,haiti,floral,none,casual,1,0
+pant,indigo,95,0,5,0,0,0,0,no boundaries,vietnam,floral,none,casual,1,0
+pant,blue,0,90,10,0,0,0,0,time and true,china,print,none,activewear,1,0
+pant,green,95,0,5,0,0,0,0,no boundaries,haiti,floral,spring,casual,1,0
